@@ -1,0 +1,27 @@
+git init  => criar um repositorio no git , dentro do diretorio;
+
+git add * ou git add (nome do arquivo) => adiciona ao staged (branch);
+
+git commit -m "alterações feitas" => deixa os arquivos prontos para o push;
+
+git push origin  => evia o codigo da maquina para o github;
+origin é o link do repositorio ja setado;
+
+git pull origin master => puxar do github;
+
+
+git clone link do repositorio => clonar o repositorio do github;
+
+
+
+
+(CONFIGURAÇAO GLOBAL): {
+git config --global user.email  = configurar email global
+
+git config --global user.name
+};
+
+
+
+
+
